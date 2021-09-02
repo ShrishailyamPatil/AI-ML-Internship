@@ -5,4 +5,4 @@ Its a Inventory Management System without GUI . It contains two .json file names
 2) Can buy multiple products at a time. Bill is generated with customer name and time.
 3) Other option avaliable when generated bill to either pay , retry or exit.
 4) Can Check the Sales in systemic format for easy reading. 
-5) Updates by reducing the quainty in storage.json and add the bill in salws.json after pay option selected.
+5) Updates by reducing the quainty in storage.json and append the bill in sales.json after pay option selected by customers.
